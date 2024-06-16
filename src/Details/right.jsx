@@ -1,7 +1,9 @@
-import Education from "../Components/training"
+
+import Education from "../Components/Education"
 import Experience from "../Components/Experience"
 import Resume from "../Components/Resume"
 import Skills from "../Components/Skils"
+import Training from "../Components/training"
 
 const Right = ()=>{
     return (
@@ -15,6 +17,9 @@ const Right = ()=>{
                     <Skills/>
                 </div>
                 <div className="education">
+                    <Training/>
+                </div>
+                <div>
                     <Education/>
                 </div>
           </div>
