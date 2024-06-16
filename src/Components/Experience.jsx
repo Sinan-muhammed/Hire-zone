@@ -9,8 +9,8 @@ const Experience = ()=>{
             <div className="head flex gap-[77px] ml-[30px]">
                 <h1 className="text-[20px] font-medium">Experience</h1>
                 <div className="icons flex gap-[18.85px]">
-                    <img src="../../public/edit.png" alt="" />
-                    <img src="../../public/add.png" alt="" />
+                    <img src="../../public/edit.png" alt="" className="cursor-pointer" />
+                    <img src="../../public/add.png" alt=""  className="cursor-pointer"/>
                 </div>
             </div>
             <div className="content flex flex-col ">

@@ -10,7 +10,7 @@ const Education =()=>{
                 </div>
               <div className="flex items-center bg-[#FFFFFF] rounded-[15px] border-[1px]  justify-between pl-[30px] pt-[23px] pr-[39px] pb-[23px]">
                   <h1 className="font-medium text-[20px] text-[#0000005b] ">Highest Education</h1>
-                  <div  className="flex gap-[17px]">
+                  <div  className="flex gap-[17px] cursor-pointer">
                       <h1 className="font-medium text-[20px]">Graduate</h1>
                       <img src="../../public/right.png" alt="" />
                   </div>

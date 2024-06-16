@@ -17,7 +17,7 @@ const Navbar = ()=>{
             <img src="../../public/bell.png" alt="notifications" className="cursor-pointer h-6 w-6 sm:h-auto sm:w-auto"/>
         </div>
         <div className="two">
-            <img src="../../public/person.png" alt="profile" className="h-6 w-6 sm:h-auto sm:w-auto"/>
+            <img src="../../public/person.png" alt="profile" className="h-6 w-6 sm:h-auto sm:w-auto cursor-pointer"/>
         </div>
     </div>
 </div>

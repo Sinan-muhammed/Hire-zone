@@ -13,7 +13,7 @@ const Resume = ()=>{
                         <img src="../../public/delete.png" alt="" className="cursor-pointer"/>
                     </div>
                  </div>
-                 <div className="pdf w-[632px] h-[97px] bg-slate-300 ml-[30px]  flex justify-center items-center border-[1px] rounded-[20px] border-black border-dashed">
+                 <div className="pdf w-[632px] h-[97px] bg-[#FFFFFF] ml-[30px]  flex justify-center items-center border-[1px] rounded-[20px] border-black border-dashed">
                             <button className="w-[194px] h-[38px] bg-[#4E53D1] rounded-[20px] font-Inter text-white font-medium">Update Resume</button>
                  </div>
          </div>

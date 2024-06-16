@@ -4,7 +4,7 @@ import Right from "./Details/right"
 const Details = ()=>{
     return (
         <>
-        <div className="flex mb-7">
+        <div className="flex mb-[85px] justify-center">
           <Left/>
           <Right/>
         </div>

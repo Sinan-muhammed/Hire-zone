@@ -8,7 +8,7 @@ const EduDetails =()=>{
                 <div className="heder flex  flex-col gap-[12px]">
                     <div className="flex justify-between items-center">
                     <h1 className="text-[20px] font-medium">BCA</h1>
-                    <img src="../../public/edit.png" alt="" className="mr-[25px] mt-[-40px]"/>
+                    <img src="../../public/edit.png" alt="" className="mr-[25px] mt-[-40px] cursor-pointer"/>
                     </div>
                     <h1 className="text-[17px] font-medium text-[#676767]">Calicut University - University of Calicut, Malappuram</h1>
                 </div>
